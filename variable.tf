@@ -21,7 +21,7 @@ variable "available_zone" {
 }
 
 variable "bastion_ami" {
-  default = "ami-0db0b3ab7df22e366"
+  default = "ami-0c1a7f89451184c8b"
 }
 variable "instance_count" {
   default = "2"
